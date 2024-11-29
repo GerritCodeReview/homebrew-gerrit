@@ -32,3 +32,10 @@ Stop Gerrit passing the `stop` argument:
 ```sh
 /usr/local/var/gerrit/bin/gerrit.sh stop
 ```
+
+## Testing locally
+
+To test locally, first set the following env variable,
+`export HOMEBREW_NO_INSTALL_FROM_API=1`
+then run
+`brew install --build-from-source --verbose --debug <gerrit_version>.rb`
