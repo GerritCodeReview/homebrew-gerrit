@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "856e9b20_e89fa735",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1155599
+      },
+      "writtenOn": "2024-12-02T10:22:21Z",
+      "side": 1,
+      "message": "There is no version of 3.10 in tarball.gerritforge.com, need to decide if we want to add 3.10 to tarball.gerritforge.com, or support downloading from GerritForge CI.",
+      "revId": "b4748e666a1e03d75686c188ebd0028fccc82fe6",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
