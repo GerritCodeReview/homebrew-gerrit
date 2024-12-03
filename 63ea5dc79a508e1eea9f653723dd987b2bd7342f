@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "57184fa0_a97f403e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1155599
+      },
+      "writtenOn": "2024-12-03T18:02:32Z",
+      "side": 1,
+      "message": "Sha is incorrect as 3.10.0 is not uploaded on the tarball repository.",
+      "revId": "63ea5dc79a508e1eea9f653723dd987b2bd7342f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
