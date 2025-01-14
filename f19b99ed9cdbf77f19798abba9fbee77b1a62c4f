@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ce1254b1_cb4ad306",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2025-01-14T11:52:39Z",
+      "side": 1,
+      "message": "nit: missing space",
+      "revId": "f19b99ed9cdbf77f19798abba9fbee77b1a62c4f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
