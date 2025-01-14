@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d15a7e63_ae54363b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2025-01-14T11:50:24Z",
+      "side": 1,
+      "message": "Works as expected on MacOS Sequoia and Homebrew 4.4.16",
+      "revId": "bce926fd364e0f0ea6f8d41c7064232a3dd9b5f8",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
