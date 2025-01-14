@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b32daff7_c2420079",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1006192
+      },
+      "writtenOn": "2025-01-14T11:32:25Z",
+      "side": 1,
+      "message": "Fails for me as it cannot find `gerrit_base`",
+      "revId": "92ed2cc9a262141aa8503b5aa10f3ed467c379fa",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
