@@ -24,6 +24,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0df4adb9_1d7d0393",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1155599
+      },
+      "writtenOn": "2025-01-14T13:27:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1b961858_ec0022ec",
+      "range": {
+        "startLine": 7,
+        "startChar": 4,
+        "endLine": 7,
+        "endChar": 9
+      },
+      "revId": "74f887354da5e5d372698c3c1f0d2c211d628472",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "0d132848_c71ebe12",
@@ -47,6 +71,30 @@
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea0c040a_3fbcfe05",
+        "filename": "gerrit.rb",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1155599
+      },
+      "writtenOn": "2025-01-14T13:27:07Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "0d132848_c71ebe12",
+      "range": {
+        "startLine": 13,
+        "startChar": 11,
+        "endLine": 13,
+        "endChar": 17
+      },
+      "revId": "74f887354da5e5d372698c3c1f0d2c211d628472",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "345ffa52_b78d70c5",
@@ -60,6 +108,30 @@
       "writtenOn": "2025-01-14T11:54:18Z",
       "side": 1,
       "message": "```suggestion\n  sha256 \"ab4e619bd40feb95060d6efb0adafe9fde68547b3967ad4a9b2d20322084daf9\"\n```",
+      "range": {
+        "startLine": 14,
+        "startChar": 10,
+        "endLine": 14,
+        "endChar": 74
+      },
+      "revId": "74f887354da5e5d372698c3c1f0d2c211d628472",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c3475b0d_64fa5874",
+        "filename": "gerrit.rb",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1155599
+      },
+      "writtenOn": "2025-01-14T13:27:07Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "345ffa52_b78d70c5",
       "range": {
         "startLine": 14,
         "startChar": 10,

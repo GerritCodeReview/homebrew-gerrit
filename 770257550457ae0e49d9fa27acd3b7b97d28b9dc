@@ -22,6 +22,30 @@
       },
       "revId": "770257550457ae0e49d9fa27acd3b7b97d28b9dc",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "49c467a3_9e64ec40",
+        "filename": "gerrit.rb",
+        "patchSetId": 3
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1155599
+      },
+      "writtenOn": "2025-01-14T13:27:07Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "da24f4c8_79ee659e",
+      "range": {
+        "startLine": 4,
+        "startChar": 20,
+        "endLine": 4,
+        "endChar": 31
+      },
+      "revId": "770257550457ae0e49d9fa27acd3b7b97d28b9dc",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
