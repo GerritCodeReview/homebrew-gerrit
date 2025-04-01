@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4b4855d9_900d6453",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1072905
+      },
+      "writtenOn": "2025-04-01T10:45:40Z",
+      "side": 1,
+      "message": "Verified locally:\n\n```\nbrew install ./gerrit@3.9.10.rb\nError: Failed to load cask: ./gerrit@3.9.10.rb\nCask \u0027gerrit@3.9.10\u0027 is unreadable: wrong constant name #\u003cClass:0x0000000150abcb28\u003e\nWarning: Treating ./gerrit@3.9.10.rb as a formula.\n\u003d\u003d\u003e Fetching gerrit@3.9.10\n\u003d\u003d\u003e Downloading https://tarball.gerritforge.com/gerrit-3.9.10.tar.gz\nAlready downloaded: /Users/syntonyze/Library/Caches/Homebrew/downloads/937afacc975d4cd4e85050ba2e1b861faa30c624b59d9e01bfe3c1537566cd69--gerrit-3.9.10.tar.gz\n\u003d\u003d\u003e java -jar /opt/homebrew/Cellar/gerrit@3.9.10/3.9.10/bin/gerrit.war init -d /opt/homebrew/var/gerrit --batch --install-all-plugins --no-auto-start\n\u003d\u003d\u003e\n\u003d\u003d\u003e Gerrit site initialized in /opt/homebrew/var/gerrit\n\u003d\u003d\u003e ---------------------------------------------------------\n\u003d\u003d\u003e  * To start Gerrit: /opt/homebrew/var/gerrit/bin/gerrit.sh start\n\u003d\u003d\u003e  * Gerrit will then be available at http://localhost:8080\n\u003d\u003d\u003e\n\u003d\u003d\u003e  * To stop  Gerrit: /opt/homebrew/var/gerrit/bin/gerrit.sh stop\n\u003d\u003d\u003e\n🍺  /opt/homebrew/Cellar/gerrit@3.9.10/3.9.10: 7 files, 84.4MB, built in 3 seconds\n\u003d\u003d\u003e Running `brew cleanup gerrit@3.9.10`...\nDisable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.\nHide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).\n➜  homebrew-gerrit git:(0e2e5af)\n➜  homebrew-gerrit git:(0e2e5af) /opt/homebrew/var/gerrit/bin/gerrit.sh run\nRunning Gerrit Code Review:\n...\n[2025-04-01T12:44:08.785+02:00] [main] INFO  com.google.gerrit.pgm.Daemon : Gerrit Code Review 3.9.10 ready\n\n```",
+      "revId": "0e2e5afa3443dfdbfd8e51fa76acafd78ac64429",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    }
+  ]
+}
