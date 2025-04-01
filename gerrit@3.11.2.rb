@@ -3,7 +3,7 @@
 
 require_relative "./gerritbase"
 
-class Gerrit < GerritBase
+class GerritAT3112 < GerritBase
   def self.java_version
     "21"
   end
