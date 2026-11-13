@@ -10,8 +10,8 @@ class Gerrit < GerritBase
 
   set_common_dependencies
 
-  version "3.14.5"
-  sha256 "7232e76ba5948582810adacbf1465d0db50ce4c0b25647cf51a15ca43eaaa503"
+  version "3.14.6"
+  sha256 "033a7b1b9b9661460ac817b37e38f2f804cdbb0b58ce755d3dd4e0d8a2b65565"
   url generate_url(version)
 
 end
