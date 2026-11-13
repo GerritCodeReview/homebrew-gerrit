@@ -5,13 +5,13 @@ require_relative "./gerritbase"
 
 class Gerrit < GerritBase
   def self.java_version
-    "21"
+    "25"
   end
 
   set_common_dependencies
 
-  version "3.14.6"
-  sha256 "033a7b1b9b9661460ac817b37e38f2f804cdbb0b58ce755d3dd4e0d8a2b65565"
+  version "3.15.0"
+  sha256 "5c15eb374792b7d0019c2ad83380fbb6d077c03b5f510398154595e157793751"
   url generate_url(version)
 
 end
